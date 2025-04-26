@@ -1,0 +1,25 @@
+{
+  "name": "weatherapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "next": "^15.3.1",
+    "tailwindcss-animate": "^1.0.7"
+  },
+  "dependencies": {
+    "@tailwindcss/postcss": "^4.1.4",
+    "framer-motion": "^12.9.2",
+    "lucide-react": "^0.503.0",
+    "next-themes": "^0.4.6",
+    "postcss": "^8.5.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "tailwindcss": "^4.1.4"
+  }
+}
